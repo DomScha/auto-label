@@ -1,4 +1,5 @@
 name: Auto Label
+#automation label generation
 
 on:
   pull_request_target:
