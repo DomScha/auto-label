@@ -1,0 +1,7 @@
+# CODEOWNERS
+# Diese Datei legt fest, wer automatisch als Reviewer fuer Pull Requests
+# vorgeschlagen wird. Aktuell ist DomScha Owner des gesamten Repos.
+#
+# Mehr Infos: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @DomScha
