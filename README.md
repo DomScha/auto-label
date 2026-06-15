@@ -5,10 +5,19 @@
 ![Last Commit](https://img.shields.io/github/last-commit/DomScha/auto-label)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=DomScha&color=38bdf8&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/DomScha?style=flat&color=38bdf8)
+
+### Tech Stack
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat&logo=openai&logoColor=white)
+
 Automatisches Labeling für Issues und Pull Requests — basierend auf geänderten Dateien (PRs) und Keywords (Issues).
 
 Teil meines **EDI Automation Toolkit** — kleine, fokussierte Tools rund um GitHub Workflows, Automation und AI.
-
 ---
 
 ## Was macht es?
