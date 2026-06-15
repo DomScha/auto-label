@@ -1,0 +1,14 @@
+{
+  "name": "edi-converter",
+  "version": "1.0.0",
+  "description": "Generischer EDIFACT/X12 -> JSON Konverter (CLI + REST API)",
+  "main": "edi-parser.js",
+  "scripts": {
+    "start": "node server.js",
+    "cli": "node cli.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
